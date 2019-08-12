@@ -1,0 +1,15 @@
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\bin\Debug\AviraUI.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\bin\Debug\AviraUI.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\bin\Debug\AviraUI.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\AviraUI\AviraUI\obj\Debug\AviraUI.ctl_AviraStateButton.resources
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-Avira2019\AviraUI\AviraUI\obj\Debug\AviraUI.exe
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-Avira2019\AviraUI\AviraUI\obj\Debug\AviraUI.xml
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-Avira2019\AviraUI\AviraUI\obj\Debug\AviraUI.pdb
