@@ -6,6 +6,6 @@ Steps on getting started
 * Open with Visual Studio 
 * Update Guna.UI Framework DLL
 
-Watch the video [https://youtu.be/ZKCj8sE2aB0]
+Watch the video [https://youtu.be/EWVgETd93E4]
 
-![](https://github.com/sobatdata/Guna-UI-Avira2019/blob/master/ss.png)
+![](https://github.com/sobatdata/Guna-UI-CustomAlertNotification/blob/master/ss.png)
